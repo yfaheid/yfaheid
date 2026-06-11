@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Yusuf 👋
 
-<!--
-**yfaheid/yfaheid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer focused on building scalable backend systems in Go and Python.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Go, Python
+- PostgreSQL, Redis
+- REST APIs, JWT Authentication
+- Docker, AWS, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### Chirpy (REST API)
+Twitter-style backend API with authentication and PostgreSQL.
+
+### Go Job Queue
+Redis-backed distributed job queue with concurrent workers.
+
+### Gator (RSS CLI)
+CLI RSS aggregator with PostgreSQL and multi-user support.
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/yusuf-faheid-0a1199293/
+- Email: yfaheid@gmail.com
